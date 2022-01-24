@@ -42,7 +42,7 @@ QR Generator is an application to create your QR with specific URL or message, y
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You need:
 
 * pip
 
